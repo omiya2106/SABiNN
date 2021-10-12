@@ -9,7 +9,16 @@ The FNN model was trained using data collected from open-source ApneaECG databas
 The goal of this project is to design the classification block of the sleep apnea detection model on CMOS integrated circuit platform and study the power consumption rate of a machine learning inspired digital circuit design. We are predicting that the power consumption rate of the IC-chip will be no larger than 50uW. Successful design, analysis and fabrication of the proposed circuit will open new doors in future development and design of low-power, smart and wearable biomedical systems.
 ## Schematic
 The schematic diagrams of the major components used in creating the digital signal processing block is shown below:
-**Reference**
+## Reference
 1. M. M. Hossain, O. Hassan, D. Parvin, M. Cheng and S. Kamrul, “An Optimized Hardware Implementation of Deep Learning Inference for Diabetes Prediction”, IEEE International Instrumentation and Measurement Technology Conference (I2MTC), 2021.
 2. A. Hazarika, A. Jain, S. Poddar and H. Rahaman, “Shift and Accumulate Convolution Processing Unit,” TENCON 2019 - 2019 IEEE Region 10 Conference (TENCON), pp. 914-919, 2019.
 3. Goldberger, L. Amaral, L. Glass, J. Hausdorff, P. Ivanov, C. Mark, H. E. Stanley, “PhysioBank, PhysioToolkit, and PhysioNet: Components of a new research resource for complex physiologic signals.” Circulation [Online]. 101 (23), pp. e215–e220, 2000
+
+## Team Members
+**Omiya Hassan**: Team Leader
+Graduate Student, Dept of EECS, University of Missouri
+**Riley Jackson**: Member
+Undergraduate Student, Dept of EECS, University of Missouri
+**Dilruba Parvin**: Member
+Graduate Student, Dept of EECS, University of Missouri
+ 
