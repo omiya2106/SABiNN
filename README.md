@@ -15,10 +15,10 @@ The schematic diagrams of the major components used in creating the digital sign
 3. Goldberger, L. Amaral, L. Glass, J. Hausdorff, P. Ivanov, C. Mark, H. E. Stanley, “PhysioBank, PhysioToolkit, and PhysioNet: Components of a new research resource for complex physiologic signals.” Circulation [Online]. 101 (23), pp. e215–e220, 2000
 
 ## Team Members
-**Omiya Hassan**: Team Leader
+1. **Omiya Hassan**: Team Leader
 Graduate Student, Dept of EECS, University of Missouri
-**Riley Jackson**: Member
+2. **Riley Jackson**: Member
 Undergraduate Student, Dept of EECS, University of Missouri
-**Dilruba Parvin**: Member
+3. **Dilruba Parvin**: Member
 Graduate Student, Dept of EECS, University of Missouri
  
