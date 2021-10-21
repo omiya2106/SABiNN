@@ -1,7 +1,7 @@
 ![logo](https://user-images.githubusercontent.com/48494146/138201951-84dfc725-5764-4773-9b36-58c7708ef19e.png)
 ## Table of Content
 1. [Project Description](https://github.com/omiya2106/DeepSAC#readme)
-2. [Tensoflow Model](https://github.com/omiya2106/DeepSAC/blob/main/Tensorflow%20Model%20of%20DeepSAC/READMe.md)
+2. [Tensoflow Model](https://github.com/omiya2106/DeepSAC/blob/main/Tensorflow%20Model%20of%20DeepSAC)
 3. Verilog Model
 4. OpenLane Files
 ## Motivation 
