@@ -13,3 +13,5 @@
 1. Tensoflow 
 2. Keras
 3. Google Colaboratory Platform 
+
+[a relative link](https://github.com/omiya2106/DeepSAC#readme)
