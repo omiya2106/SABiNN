@@ -8,3 +8,8 @@
 | Recall        |   88           |
 | Precision     |   89           |
 | Sensitivity   |   87           |
+
+# Platform used
+1. Tensoflow 
+2. Keras
+3. Google Colaboratory Platform 
