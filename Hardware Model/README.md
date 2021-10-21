@@ -1,5 +1,5 @@
 ## FPGA Implementation
-For performance and power consumption analyses we designed the entire model onto field-programmable gate array to study the reports and justify the proposed low power design scheme. Figure. 2 showcases the IP block diagram of the complete FNN model and Table I presents the hardware utilization reports. The input layer takes in 9-bit integer data where the most- significant bit (MSB) is the sign bit. 
+For performance analyses we designed the entire model onto field-programmable gate array to study the reports and justify the proposed design scheme. **Figure. 1** showcases the testbench of the BiNN model and Table I presents the hardware utilization reports. The input layer takes in 16-bit integer data where the most- significant bit (MSB) is the sign bit. 
 
 ## Resource Utilization
 | Slice LUTs | Bonded IOB| BUFGCTRL | Slice registers | MUX | LUT as Logic | Slice |
