@@ -9,5 +9,5 @@ The utilization area of DeepSAC_sleep.v module without the user_project_wrapper 
 | CellPer mm^2| 54083.76126 | per mm^2|
 
 **Runtime**
-Total Runtime: 10ms 9s
-Routing Time: 7m 52s
+1. Total Runtime: 10ms 9s
+2. Routing Time: 7m 52s
