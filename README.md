@@ -1,4 +1,9 @@
 ![logo](https://user-images.githubusercontent.com/48494146/138201951-84dfc725-5764-4773-9b36-58c7708ef19e.png)
+## Table of Content
+1. [Project Description](https://github.com/omiya2106/DeepSAC#readme)
+2. [Tensoflow Model](https://github.com/omiya2106/DeepSAC/blob/main/Tensorflow%20Model%20of%20DeepSAC/READMe.md)
+3. Verilog Model
+4. OpenLane Files
 ## Motivation 
 Sophistication and complexity of artificial intelligence and its demand in healthcare applications have sparked our interest in developing efficient methods to design real-time biomedical systems for detection and prediction of symptoms of complex diseases or abnormalities. Sleep apnea is one of the leading causes of sudden death around the globe, particularly in neonatal infants and adults aged over 50 years and the methods of pre-screening and detecting such abnormality are still in progress. Various sensor technologies adopting artificial intelligence in detecting and predicting of sleep apnea have been developed in recent years leading to the rapid progress in biomedical research. Based on multiple literature reviews, we have developed the idea of integrating machine learning models onto hardware and designing a real-time sleep apnea detection system. By using our proposed energy efficient design technique called DeepSAC (Shift-Accumulate Based Deep Learning Hardware Model), we are introducing a compact, energy efficient, smart, and portable system capable of detecting apnea in real-time.
 ## Description
@@ -14,11 +19,6 @@ The FNN model was trained using data collected from open-source ApneaECG databas
 
 ## Design Goal
 The goal of this project is to design the classification block of the sleep apnea detection model on CMOS integrated circuit platform and study the power consumption rate of a machine learning inspired digital circuit design. We are predicting that the power consumption rate of the IC-chip will be no larger than 50uW. Successful design, analysis and fabrication of the proposed circuit will open new doors in future development and design of low-power, smart and wearable biomedical systems.
-
-## Table of Content
-1. [Tensoflow Model](https://github.com/omiya2106/DeepSAC/blob/main/Tensorflow%20Model%20of%20DeepSAC/READMe.md)
-2. Verilog Model
-3. OpenLane Files
 
 [^1]: M. M. Hossain, O. Hassan, D. Parvin, M. Cheng and S. Kamrul, “An Optimized Hardware Implementation of Deep Learning Inference for Diabetes Prediction”, IEEE International Instrumentation and Measurement Technology Conference (I2MTC), 2021.
 [^2]: A. Hazarika, A. Jain, S. Poddar and H. Rahaman, “Shift and Accumulate Convolution Processing Unit,” TENCON 2019 - 2019 IEEE Region 10 Conference (TENCON), pp. 914-919, 2019.
