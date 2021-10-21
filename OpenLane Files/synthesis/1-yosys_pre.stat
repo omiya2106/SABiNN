@@ -1,0 +1,26 @@
+
+10. Printing statistics.
+
+=== DeepSAC_sleep ===
+
+   Number of wires:              11308
+   Number of wire bits:          11354
+   Number of public wires:          20
+   Number of public wire bits:      66
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:              11319
+     $_ANDNOT_                    4713
+     $_AND_                        144
+     $_DFF_P_                       14
+     $_DLATCH_N_                     3
+     $_MUX_                          1
+     $_NAND_                       160
+     $_NOR_                       1655
+     $_NOT_                        192
+     $_ORNOT_                      536
+     $_OR_                         864
+     $_XNOR_                      1391
+     $_XOR_                       1646
+
