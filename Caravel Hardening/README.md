@@ -7,7 +7,7 @@ We placed the DeepSAC_sleep module inside the user_project_wrapper. Below are th
 |output class | io_out            | 1    |
 |input x1     | io_in [15:0]      | 16   |
 |input x2     | io_in [31:16]     | 16   |
-|clk          | user_clock2       | bit  |
+|clk          | user_clock2       | 1    |
 
 **Things To be done**
 1. Generate tesbench following the caravel documentation 
