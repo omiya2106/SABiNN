@@ -2,6 +2,7 @@
 According to the final Summary report we collected our results which are given in the following
 
 **Area**
+
 The utilization area of DeepSAC_sleep.v module without the user_project_wrapper is given below in the table:
 | Parameter   | Value       | Unit    |
 | ----------- | ----------- | ------- |
