@@ -81,9 +81,9 @@ module user_project_wrapper #(
     output [2:0] user_irq
 );
     
-    wire class;
-    wire [15:0] x1;
-    wire [15:0] x2;
+    wire io_out;
+    wire [15:0] io_in;
+    wire [31:16] io_in;
 
 /*--------------------------------------*/
 /* User project is instantiated  here   */
@@ -91,10 +91,10 @@ module user_project_wrapper #(
 
 DeepSAC_sleep DS(
 // my defined i/os
-.class_o(la_data_out),
-.clk(wb_clk_i),
-.x1(la_data_in[15:0]),
-.x2(la_data_in[31:16]),
+.class_o (io_out),
+.clk (user_clock2),
+.x1 (io_in[15:0]),
+.x2 (io_in[31:16]),
 );
 endmodule
 
