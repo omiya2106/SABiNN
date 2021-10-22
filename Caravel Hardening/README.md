@@ -10,6 +10,6 @@ We placed the DeepSAC_sleep module inside the user_project_wrapper. Below are th
 |clk          | user_clock2       | 1    |
 
 **Things To be done**
-1. Generate tesbench following the caravel documentation 
-2. Generate gds file 
+1. Generate testbench following the caravel documentation 
+2. Generate gds file after debugging wrapper verilog file 
 3. Generate the layout 
