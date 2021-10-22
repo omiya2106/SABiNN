@@ -1,0 +1,19 @@
+Design Name: user_project_wrapper
+Run Directory: /openLANE_flow/designs/user_project_wrapper/runs/22-10_20-58
+----------------------------------------
+
+Magic DRC Summary:
+Source: /openLANE_flow/designs/user_project_wrapper/runs/22-10_20-58/reports/magic/36-magic.drc
+Total Magic DRC violations is 0
+----------------------------------------
+
+LVS Summary:
+Source: /openLANE_flow/designs/user_project_wrapper/runs/22-10_20-58/results/lvs/user_project_wrapper.lvs_parsed.lef.log
+LVS reports no net, device, pin, or property mismatches.
+Total errors = 0
+----------------------------------------
+
+Antenna Summary:
+Source: /openLANE_flow/designs/user_project_wrapper/runs/22-10_20-58/reports/routing/38-antenna.rpt
+Number of pins violated: 3
+Number of nets violated: 3
