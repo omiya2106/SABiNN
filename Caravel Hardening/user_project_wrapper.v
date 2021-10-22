@@ -91,25 +91,10 @@ module user_project_wrapper #(
 
 DeepSAC_sleep DS(
 // my defined i/os
-.class_o(class),
+.class_o(io_out),
 .clk(wb_clk_i),
 .x1(io_in[15:0]),
 .x2(io_in[31:16]),
-
-//wishbone slave ports
-.wbs_stb_i(wbs_stb_i),
-.wbs_cyc_i(wbs_cyc_i),
-.wbs_we_i(wbs_we_i),
-.wbs_sel_i(wbs_sel_i),
-.wbs_dat_i(wbs_dat_i),
-.wbs_adr_i(wbs_adr_i),
-.wbs_ack_o(wbs_ack_o),
-.wbs_dat_o(wbs_dat_o),
- 
-// logic analyzer signals
- .la_data_in_i(la_data_in),
- .la_data_out_o(la_data_out),
- .la_oenb_i(la_oenb),
 );
 endmodule
 
