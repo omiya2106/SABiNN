@@ -5,8 +5,8 @@ We placed the DeepSAC_sleep module inside the user_project_wrapper. Below are th
 | Module Port | user_wrapper_port | bits |
 | ----------- | ----------------- | ---- |
 |output class | wbs_ack_o         | 1    |
-|input x1     | wbs_dat_i [31:0]  | 16   |
-|input x2     | wbs_adr_i [31:0]  | 16   |
+|input x1     | wbs_dat_i [31:0]  | 32   |
+|input x2     | wbs_adr_i [31:0]  | 32   |
 |clk          | wbs_clk_i         | 1    |
 |rst          | wbs_rst_i         | 1    |
 
