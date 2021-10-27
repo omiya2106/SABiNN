@@ -21,7 +21,7 @@ We set the user_project_wrapper as top module and simulated the file on Xilinx p
 
 ## Layout
 
-**Figure.2** Below is the layout image of the DeepSAC_sleep module integrated user_project_wrapper module.
+Below is the layout image of the DeepSAC_sleep module integrated user_project_wrapper module.
 
 ![layout_user_wrapper](https://user-images.githubusercontent.com/48494146/139135766-bf273333-c28c-415c-a0f8-50a482c5fef5.PNG)
 
