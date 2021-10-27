@@ -4,7 +4,7 @@ We placed the DeepSAC_sleep module inside the user_project_wrapper. Below are th
 
 ![fullschematic](https://user-images.githubusercontent.com/48494146/139099032-757f9b27-a923-4f84-979f-778d6994217b.jpg)
 
-**Figure. 1**: Full Schematic of DeepSAC_sleep module inside caravel user_project_wrapper module. The colored boxes indicates different type of logic components we designed and used for consturcting the porposed BiNN model for sleep apnea detection.  
+**Figure. 1**: Full Schematic of DeepSAC_sleep module inside caravel user_project_wrapper module. The colored boxes indicates different type of logic components we designed and used for constructing the proposed BiNN model for sleep apnea detection.  
 
 **Connections**
 | Module Port | user_wrapper_port | bits |
