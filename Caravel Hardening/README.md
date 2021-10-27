@@ -9,11 +9,11 @@ We placed the DeepSAC_sleep module inside the user_project_wrapper. Below are th
 **Connections**
 | Module Port | user_wrapper_port | bits |
 | ----------- | ----------------- | ---- |
-|output class | wbs_ack_o         | 1    |
-|input x1     | wbs_dat_i [31:0]  | 32   |
-|input x2     | wbs_adr_i [31:0]  | 32   |
-|clk          | wbs_clk_i         | 1    |
-|rst          | wbs_rst_i         | 1    |
+|output class | wb_ack_o          | 1    |
+|input x1     | wb_dat_i [31:0]   | 32   |
+|input x2     | wb_adr_i [31:0]   | 32   |
+|clk          | wb_clk_i          | 1    |
+|rst          | wb_rst_i          | 1    |
 
 ## Testbench
 We set the user_project_wrapper as top module and simulated the file on Xilinx platform to test if the connection works. We used the same test data that was used when implementing our DeepSAC_sleep module in FPGA
