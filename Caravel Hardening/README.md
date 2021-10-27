@@ -19,7 +19,14 @@ We placed the DeepSAC_sleep module inside the user_project_wrapper. Below are th
 We set the user_project_wrapper as top module and simulated the file on Xilinx platform to test if the connection works. We used the same test data that was used when implementing our DeepSAC_sleep module in FPGA
 ![test_branch_user_project_wrapper](https://user-images.githubusercontent.com/48494146/138511806-7dfce30e-160a-4a93-97b2-68d3406a6175.PNG)
 
+## Layout
+
+**Figure.2** Below is the layout image of the DeepSAC_sleep module integrated user_project_wrapper module.
+
+![layout_user_wrapper](https://user-images.githubusercontent.com/48494146/139135766-bf273333-c28c-415c-a0f8-50a482c5fef5.PNG)
+
 **Things To be done**
 1. Generate testbench following the caravel documentation [done]
-2. Generate gds file after debugging wrapper verilog file 
-3. Generate the layout 
+2. Generate gds file after debugging wrapper verilog file [done]
+3. Generate the layout [done]
+4. Correct Antenna violations [wip]
