@@ -29,4 +29,4 @@ Below is the layout image of the DeepSAC_sleep module integrated user_project_wr
 1. Generate testbench following the caravel documentation [done]
 2. Generate gds file after debugging wrapper verilog file [done]
 3. Generate the layout [done]
-4. Correct Antenna violations [wip]
+4. Correct Antenna violations [done]
