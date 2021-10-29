@@ -23,7 +23,7 @@ We set the user_project_wrapper as top module and simulated the file on Xilinx p
 
 Below is the layout image of the DeepSAC_sleep module integrated user_project_wrapper module.
 
-![layout_user_wrapper](https://user-images.githubusercontent.com/48494146/139135766-bf273333-c28c-415c-a0f8-50a482c5fef5.PNG)
+![layout_user_wrapper](https://user-images.githubusercontent.com/48494146/139374402-930e6b0a-b08b-4aa8-abb3-5b7c0e80cbfd.PNG)
 
 **Things To be done**
 1. Generate testbench following the caravel documentation [done]
