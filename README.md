@@ -16,6 +16,23 @@ The FNN model was trained using data collected from open-source ApneaECG databas
 
 ![BiNN](https://user-images.githubusercontent.com/48494146/137023989-4ae49f85-30c2-4e29-b59c-6e6b8a011a3f.png)
 **Figure 2:** Graphical representation of Binary Neural Network (BiNN) with 4-hidden layers (8-12-6-4) and their associated activation functions
+## schematic
+The schematic of the DeepSAC_sleep module inlucded user_project_wrapper module is shown below
+
+
+## Layout Design
+The layout design without the caravel harnessing is given below
+
+
+
+## Specifications
+
+| Die Area              | ~0.15   |mm^2 |
+| (Cell/mm^2)/Core_util | 1116510 | --  |
+| Cell count            | 8246    | --  |
+
+Full Report can be found here [Final Summary Report] (https://github.com/omiya2106/DeepSAC/blob/main/Caravel%20Hardening/OpenLane%20Run/final_summary_report.csv)
+
 
 ## Design Goal
 The goal of this project is to design the classification block of the sleep apnea detection model on CMOS integrated circuit platform and study the power consumption rate of a machine learning inspired digital circuit design. We are predicting that the power consumption rate of the IC-chip will be no larger than 50uW. Successful design, analysis and fabrication of the proposed circuit will open new doors in future development and design of low-power, smart and wearable biomedical systems.
