@@ -26,9 +26,9 @@ The layout design without the caravel harnessing is given below
 
 ## Specifications
 
-| Die Area              | ~0.15   |mm^2 |
-| (Cell/mm^2)/Core_util | 1116510 | --  |
-| Cell count            | 8246    | --  |
+| Die Area              | ~0.15   | mm^2 |
+| (Cell/mm^2)/Core_util | 1116510 | ---  |
+| Cell count            | 8246    | ---  |
 
 Full Report can be found here [Final Summary Report](https://github.com/omiya2106/DeepSAC/blob/main/Caravel%20Hardening/OpenLane%20Run/final_summary_report.csv)
 
