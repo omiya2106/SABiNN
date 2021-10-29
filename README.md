@@ -25,7 +25,8 @@ The layout design without the caravel harnessing is given below
 ![layout_user_wrapper](https://user-images.githubusercontent.com/48494146/139374402-930e6b0a-b08b-4aa8-abb3-5b7c0e80cbfd.PNG)
 
 ## Specifications
-
+| Parameter             | Value   | Unit |
+| --------------------  | ------- | ---- |
 | Die Area              | ~0.15   | mm^2 |
 | (Cell/mm^2)/Core_util | 1116510 | ---  |
 | Cell count            | 8246    | ---  |
