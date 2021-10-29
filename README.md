@@ -18,12 +18,11 @@ The FNN model was trained using data collected from open-source ApneaECG databas
 **Figure 2:** Graphical representation of Binary Neural Network (BiNN) with 4-hidden layers (8-12-6-4) and their associated activation functions
 ## schematic
 The schematic of the DeepSAC_sleep module inlucded user_project_wrapper module is shown below
-
-
+![fullschematic](https://user-images.githubusercontent.com/48494146/139099032-757f9b27-a923-4f84-979f-778d6994217b.jpg)
 ## Layout Design
 The layout design without the caravel harnessing is given below
 
-
+![layout_user_wrapper](https://user-images.githubusercontent.com/48494146/139374402-930e6b0a-b08b-4aa8-abb3-5b7c0e80cbfd.PNG)
 
 ## Specifications
 
@@ -31,7 +30,7 @@ The layout design without the caravel harnessing is given below
 | (Cell/mm^2)/Core_util | 1116510 | --  |
 | Cell count            | 8246    | --  |
 
-Full Report can be found here [Final Summary Report] (https://github.com/omiya2106/DeepSAC/blob/main/Caravel%20Hardening/OpenLane%20Run/final_summary_report.csv)
+Full Report can be found here [Final Summary Report](https://github.com/omiya2106/DeepSAC/blob/main/Caravel%20Hardening/OpenLane%20Run/final_summary_report.csv)
 
 
 ## Design Goal
