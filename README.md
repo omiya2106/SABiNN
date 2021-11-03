@@ -17,7 +17,7 @@ The FNN model was trained using data collected from open-source ApneaECG databas
 ![BiNN](https://user-images.githubusercontent.com/48494146/137023989-4ae49f85-30c2-4e29-b59c-6e6b8a011a3f.png)
 **Figure 2:** Graphical representation of Binary Neural Network (BiNN) with 4-hidden layers (8-12-6-4) and their associated activation functions
 ## schematic
-The schematic of the DeepSAC_sleep module inlucded user_project_wrapper module is shown below
+The schematic of the DeepSAC_sleep module included user_project_wrapper module is shown below
 ![fullschematic](https://user-images.githubusercontent.com/48494146/139099032-757f9b27-a923-4f84-979f-778d6994217b.jpg)
 ## Layout Design
 The layout design without the caravel harnessing is given below
