@@ -1,7 +1,0 @@
-VPWR power 1.8
-VGND power 0.0
-#define std_input min@VGND max@VPWR
-wb_clk_i input std_input
-wb_rst_i input std_input
-wbs_adr_i[31:0] input std_input
-wbs_dat_i[31:0] input std_input
