@@ -22,7 +22,7 @@ The schematic of the DeepSAC_sleep module included user_project_wrapper module i
 ## Layout Design
 The layout design without the caravel harnessing is given below
 
-![layout_user_wrapper](https://user-images.githubusercontent.com/48494146/139374402-930e6b0a-b08b-4aa8-abb3-5b7c0e80cbfd.PNG)
+![chip_without scale](https://user-images.githubusercontent.com/48494146/144096485-fd30af13-7d30-4c7b-ac86-519c8a44df9d.PNG)
 
 ## Specifications
 | Parameter             | Value   | Unit |
@@ -32,6 +32,11 @@ The layout design without the caravel harnessing is given below
 | Cell count            | 8246    | ---  |
 
 Full Report can be found here [Final Summary Report](https://github.com/omiya2106/DeepSAC/blob/main/Caravel%20Hardening/OpenLane%20Run/final_summary_report.csv)
+
+## Caravel Hardening
+The layout design with the caravel integration (no fill)
+
+![caravel](https://user-images.githubusercontent.com/48494146/144096590-d627ae2f-fa89-4024-abb0-84e6435c8512.PNG)
 
 
 ## Design Goal
