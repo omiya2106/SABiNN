@@ -1,4 +1,5 @@
-![logo](https://user-images.githubusercontent.com/48494146/138365442-e668ef58-d1e0-4cdc-9636-65efd28d6eb1.png)
+
+![logo_sabinn_github](https://user-images.githubusercontent.com/48494146/197248349-0c027166-a7d5-4234-a2a0-2590c4b80087.PNG)
 ## Table of Content
 1. [Project Description](https://github.com/omiya2106/DeepSAC#readme)
 2. [Tensorflow Model](https://github.com/omiya2106/DeepSAC/blob/main/Tensorflow%20Model%20of%20DeepSAC)
