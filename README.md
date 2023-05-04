@@ -55,4 +55,4 @@ Undergraduate Student, Dept of EECS, University of Missouri
 3. **Dilruba Parvin**: Member |
 Graduate Student, Dept of EECS, University of Missouri
  
-If you have resuded the model algorithm and code please cite the paper "O. Hassan, R. Thakker, T. Paul, D. Parvin, A. S. M. Mosa, S. K. Islam, "SABiNN: FPGA Implementation of Shift Accumulate Binary Neural Network Model for Real-Time Automatic Detection of Sleep Apnea." In 2022 IEEE International Instrumentation and Measurement Technology Conference (I2MTC) (pp. 1-6). IEEE, 2022"
+If you have used the SABiNN model algorithm and code please cite the paper "O. Hassan, R. Thakker, T. Paul, D. Parvin, A. S. M. Mosa, S. K. Islam, "SABiNN: FPGA Implementation of Shift Accumulate Binary Neural Network Model for Real-Time Automatic Detection of Sleep Apnea." In 2022 IEEE International Instrumentation and Measurement Technology Conference (I2MTC) (pp. 1-6). IEEE, 2022"
